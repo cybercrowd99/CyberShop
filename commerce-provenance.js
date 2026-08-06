@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Provenance Model
-//
+// 
 // Purpose:
 // Preserve origin and source evidence for commerce lifecycle records.
 //
