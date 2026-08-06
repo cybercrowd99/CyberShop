@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Audit Model
-//
+// 
 // Purpose:
 // Preserve evidence that commerce lifecycle events were reviewed
 // and recorded across the commerce chain.
