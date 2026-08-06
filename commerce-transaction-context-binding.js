@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Binding Model
-//
+// 
 // Purpose:
 // Preserve linkage between transaction context
 // and commerce lifecycle records.
