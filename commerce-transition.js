@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transition Model
-//
+// 
 // Purpose:
 // Preserve evidence of lifecycle state movement
 // from one commerce state to another.
