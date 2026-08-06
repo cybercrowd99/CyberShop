@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce State Model
-//
+// 
 // Purpose:
 // Preserve the current lifecycle state of a commerce record.
 //
