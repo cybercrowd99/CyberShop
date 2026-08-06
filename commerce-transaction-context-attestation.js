@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Attestation Model
-//
+// 
 // Purpose:
 // Preserve descriptive evidence that a confirmed
 // transaction context linkage received attestation
