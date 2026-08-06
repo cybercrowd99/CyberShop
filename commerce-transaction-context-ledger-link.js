@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Ledger Link Model
-//
+// 
 // Purpose:
 // Preserve descriptive linkage between transaction context
 // evidence and commerce ledger records.
