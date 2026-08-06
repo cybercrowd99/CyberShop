@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Lineage Model
-//
+// 
 // Purpose:
 // Preserve the connected evidence lineage of a commerce lifecycle.
 //
