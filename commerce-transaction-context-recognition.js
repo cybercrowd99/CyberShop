@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Recognition Model
-//
+// 
 // Purpose:
 // Preserve descriptive evidence that a verified
 // transaction context linkage has been recognized
