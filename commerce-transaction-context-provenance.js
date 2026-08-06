@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Provenance Model
-//
+// 
 // Purpose:
 // Preserve descriptive evidence of the origin and
 // source relationship of transaction context lifecycle records.
