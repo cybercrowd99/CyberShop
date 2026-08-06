@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Integrity Model
-// 
+//  
 // Purpose:
 // Preserve evidence that commerce lifecycle records
 // maintain structural integrity across the evidence chain.
