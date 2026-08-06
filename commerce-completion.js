@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Completion Model
-//
+// 
 // Purpose:
 // Preserve evidence that a commerce lifecycle reached
 // a completed terminal state.
