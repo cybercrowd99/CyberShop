@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Validation Model
-//
+// 
 // Purpose:
 // Preserve evidence that a transaction context
 // linkage reached a validated state.
