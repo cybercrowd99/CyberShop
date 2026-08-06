@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Snapshot Model
-//
+// 
 // Purpose:
 // Preserve a point-in-time evidence snapshot of a commerce lifecycle.
 //
