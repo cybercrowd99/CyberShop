@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Verification Model
-//
+// 
 // Purpose:
 // Preserve evidence that commerce lifecycle records
 // passed a verification review.
