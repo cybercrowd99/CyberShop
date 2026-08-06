@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Acknowledgement Record Model
-// 
+//  
 // Purpose:
 // Preserve evidence that a commerce lifecycle record
 // contains a durable acknowledgement record reference.
