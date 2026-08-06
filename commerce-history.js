@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce History Model
-//
+// 
 // Purpose:
 // Preserve the chronological lifecycle history of commerce events.
 //
