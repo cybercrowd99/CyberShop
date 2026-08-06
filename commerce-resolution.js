@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Resolution Model
-//
+// 
 // Purpose:
 // Preserve the final resolved state of a commerce lifecycle.
 //
