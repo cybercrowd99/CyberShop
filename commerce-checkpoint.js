@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Checkpoint Model
-//
+// 
 // Purpose:
 // Preserve verified lifecycle checkpoints inside a commerce chain.
 //
