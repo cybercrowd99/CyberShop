@@ -1,6 +1,6 @@
 /**
  * Repository: cybercrowd-cybershop
- *
+ * 
  * Module: TransactionDecision
  *
  * Purpose:
