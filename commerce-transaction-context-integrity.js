@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Integrity Model
-//
+// 
 // Purpose:
 // Preserve descriptive evidence that a transaction context
 // lifecycle chain maintained integrity within CyberShop.
