@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Attestation Model
-//
+// 
 // Purpose:
 // Preserve evidence that a commerce lifecycle record
 // was acknowledged as a valid evidentiary state.
