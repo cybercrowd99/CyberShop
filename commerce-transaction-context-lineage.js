@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Lineage Model
-//
+// 
 // Purpose:
 // Preserve descriptive evidence of the historical
 // relationship between transaction context lifecycle records.
