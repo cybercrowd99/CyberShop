@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Recognition Model
-//
+// 
 // Purpose:
 // Preserve evidence that a commerce lifecycle record
 // received a recorded recognition marker.
