@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Registration Model
-//
+// 
 // Purpose:
 // Preserve descriptive evidence that a recognized
 // transaction context linkage has been registered
