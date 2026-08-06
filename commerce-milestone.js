@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Milestone Model
-//
+// 
 // Purpose:
 // Preserve significant lifecycle milestone evidence
 // within a commerce chain.
