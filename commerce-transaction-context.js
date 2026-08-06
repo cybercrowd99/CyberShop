@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Model
-//
+// 
 // Purpose:
 // Preserve the shared context reference for a
 // CyberShop commerce lifecycle.
