@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Reconciliation Link Model
-//
+// 
 // Purpose:
 // Preserve descriptive linkage between transaction context
 // lifecycle evidence and reconciliation records.
