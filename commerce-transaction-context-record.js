@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Record Model
-//
+// 
 // Purpose:
 // Preserve a unified descriptive record reference
 // for transaction context lifecycle evidence.
