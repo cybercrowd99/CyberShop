@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Certification Model
-//
+// 
 // Purpose:
 // Preserve descriptive evidence that a registered
 // transaction context linkage reached a certified state.
