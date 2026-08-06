@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context Archive Model
-//
+// 
 // Purpose:
 // Preserve durable descriptive evidence of a completed
 // transaction context lifecycle chain.
