@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Certification Model
-//
+// 
 // Purpose:
 // Preserve evidence that a commerce lifecycle record
 // reached a certified evidentiary state.
