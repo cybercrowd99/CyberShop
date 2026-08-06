@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Reconciliation Model
-// 
+//  
 // Purpose:
 // Preserve evidence that commerce records were compared
 // and their lifecycle states reconciled.
