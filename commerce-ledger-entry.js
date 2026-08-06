@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Ledger Entry Model
-//
+// 
 // Purpose:
 // Preserve evidence relationships between commerce lifecycle events.
 //
