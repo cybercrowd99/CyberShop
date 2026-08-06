@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Transaction Context History Model
-//
+// 
 // Purpose:
 // Preserve chronological descriptive evidence
 // of transaction context lifecycle progression.
