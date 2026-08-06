@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Confirmation Model
-//
+// 
 // Purpose:
 // Preserve evidence that a commerce lifecycle state
 // received a recorded confirmation marker.
