@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Event Model
-//
+// 
 // Purpose:
 // Preserve evidence of discrete commerce lifecycle events.
 //
