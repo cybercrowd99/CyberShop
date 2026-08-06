@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Record Binding Model
-//
+// 
 // Purpose:
 // Preserve evidence that commerce lifecycle records
 // maintain linked references across the commerce evidence chain.
