@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Settlement Model
-//
+// 
 // Purpose:
 // Preserve settlement state after authorized commerce activity.
 //
