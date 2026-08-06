@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Archive Model
-//
+// 
 // Purpose:
 // Preserve finalized commerce lifecycle evidence for durable reference.
 //
