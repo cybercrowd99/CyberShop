@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Registration Model
-//
+// 
 // Purpose:
 // Preserve evidence that a commerce lifecycle record
 // was registered into the commerce evidence chain.
