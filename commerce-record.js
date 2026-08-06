@@ -1,6 +1,6 @@
 // CyberCrowd CyberShop
 // Commerce Record Model
-//
+// 
 // Purpose:
 // Preserve the unified evidence reference for a commerce lifecycle.
 //
