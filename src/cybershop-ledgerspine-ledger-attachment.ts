@@ -1,6 +1,6 @@
 /**
  * CYBERSHOP
- *
+ * 
  * Ledger Attachment
  *
  * ONE JOB:
