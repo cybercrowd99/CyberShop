@@ -1,0 +1,7 @@
+{
+  "name": "cybershop",
+  "version": "1.0.0",
+  "devDependencies": {
+    "wrangler": "4.120.1"
+  }
+}
